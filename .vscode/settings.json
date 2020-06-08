@@ -1,0 +1,18 @@
+{
+  "material-icon-theme.folders.associations": {
+    "infra": "app",
+    "migrations": "tools",
+    "modules": "components",
+    "http": "container"
+  },
+
+  "files.autoSave": "onFocusChange",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 24,
+  "editor.formatOnSave": true,
+  "update.mode": "none",
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [90, 120],
+  "editor.tabSize": 2
+}
